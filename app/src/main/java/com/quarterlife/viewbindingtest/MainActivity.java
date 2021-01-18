@@ -2,10 +2,8 @@ package com.quarterlife.viewbindingtest;
 
 import android.os.Bundle;
 import android.view.View;
-
 import androidx.appcompat.app.AppCompatActivity;
 import com.quarterlife.viewbindingtest.databinding.ActivityMainBinding;
-
 import java.text.NumberFormat;
 
 public class MainActivity extends AppCompatActivity {
